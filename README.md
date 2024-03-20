@@ -1,2 +1,1 @@
-# -
-crazy_kittens
+# crazy_kittens
